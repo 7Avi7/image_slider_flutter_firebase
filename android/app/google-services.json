@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415978754074",
+    "project_id": "slider-fire",
+    "storage_bucket": "slider-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415978754074:android:0c9efd0cc71882e1aa01a3",
+        "android_client_info": {
+          "package_name": "com.example.slider_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUD1OzmMUHTaDFn3xROtGMmkqoWBLeRQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
